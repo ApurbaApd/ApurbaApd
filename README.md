@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **apdnath8596@gmail.com**
 
-- ⚡ Fun fact **I think I am funnier than people think, Certainly not boring 😄**
+- ⚡ Fun fact **Certainly not boring 😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
