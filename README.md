@@ -1,5 +1,4 @@
 
-![MasterHead](https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif)
 <h1 align="center">Hello there, Apurba here👋</h1>
 <h3 align="center">Developer || Programmer ||</h3>
 <img align="right" alt="programmer" width="400" src="https://thumbs.gfycat.com/AgonizingEvenHoiho-size_restricted.gif">
@@ -10,11 +9,11 @@
 
 - 🔭 I’m currently working on **Some cool projects(MERN)**
 
-- 🌱 I’m currently learning **ReactNative**
+- 🌱Currently learning **ReactNative**
 
-- 📫 How to reach me **apdnath8596@gmail.com**
+- 📫 Reach me at **apdnath8596@gmail.com**
 
-- ⚡ Fun fact **Certainly not boring 😄**
+- ⚡ Fun fact about me **Certainly not boring 😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
