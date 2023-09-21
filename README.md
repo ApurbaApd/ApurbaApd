@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/apurbadebnath01" target="blank"><img src="https://img.shields.io/twitter/follow/apurbadebnath01?logo=twitter&style=for-the-badge" alt="apurbadebnath01" /></a> </p>
 
-- 🔭 I’m currently working on **Some cool projects(MERN)**
+- 🔭 Currently working on **Some cool projects(MERN)**
 
-- 🌱Currently learning **ReactNative**
+- 🌱Currently Exploring/learning **React Native**
 
 - 📫 Reach me at **apdnath8596@gmail.com**
 
-- ⚡ Fun fact about me **Certainly not boring 😄**
+- ⚡ Fun fact about me **Very Poor but my friends think I'm rich..!😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
