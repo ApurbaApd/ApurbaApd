@@ -1,19 +1,19 @@
 
 <h1 align="center">Hello there, Apurba here👋</h1>
-<h3 align="center">Developer || Programmer ||</h3>
+<h3 align="center">Data Analytics || Data science</h3>
 <img align="right" alt="programmer" width="400" src="https://thumbs.gfycat.com/AgonizingEvenHoiho-size_restricted.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apurbaapd&label=Profile%20views&color=0e75b6&style=flat" alt="apurbaapd" /> </p>
 
 <p align="left"> <a href="https://twitter.com/apurbadebnath01" target="blank"><img src="https://img.shields.io/twitter/follow/apurbadebnath01?logo=twitter&style=for-the-badge" alt="apurbadebnath01" /></a> </p>
 
-- 🔭 Currently working on **Some cool projects(MERN)**
+- 🔭 Currently working on **Some cool projects(Data science)**
 
-- 🌱Currently Exploring/learning **React Native**
+- 🌱Currently Exploring/learning **AI/ML/DL/NLP**
 
 - 📫 Reach me at **apdnath8596@gmail.com**
 
-- ⚡ Fun fact about me **Very Poor but my friends think I'm rich..!😄**
+- ⚡ Fun fact about me **Like working on challenging project**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
