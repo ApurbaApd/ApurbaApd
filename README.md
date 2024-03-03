@@ -9,11 +9,11 @@
 
 - 🔭 Currently working on **Some cool projects(Data science)**
 
-- 🌱Currently Exploring/learning **AI/ML/DL/NLP**
+- 🌱 Exploring/learning **AI/ML/DL/NLP**
 
 - 📫 Reach me at **apdnath8596@gmail.com**
 
-- ⚡ Fun fact about me **Like working on challenging project**
+- ⚡ Fun fact about me : **Like working on challenging project**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
