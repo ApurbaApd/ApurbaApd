@@ -11,7 +11,7 @@
 
 - 🌱 Exploring/learning **AI/ML/DL/NLP**
   
-- 🎯 SKILLS : **Machine Learning**, **DEEP Leraning** **Natural Language Processing(NLP)**
+- 🎯 SKILLS : **Machine Learning**, **DEEP Learning** **Natural Language Processing(NLP)**
 
 - 📫 Reach me at **apdnath8596@gmail.com**
 
