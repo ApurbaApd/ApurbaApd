@@ -7,9 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/apurbadebnath01" target="blank"><img src="https://img.shields.io/twitter/follow/apurbadebnath01?logo=twitter&style=for-the-badge" alt="apurbadebnath01" /></a> </p>
 
-- 🔭 Currently working on **Some cool projects(Data science)**
+- 🔭 Currently working on **Some cool projects(DS/ML/DL)**
 
 - 🌱 Exploring/learning **AI/ML/DL/NLP**
+  
+- 🎯 SKILLS : **Machine Learning**, **DEEP Leraning** **Natural Language Processing(NLP)**
 
 - 📫 Reach me at **apdnath8596@gmail.com**
 
