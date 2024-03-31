@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello there, Apurba here👋</h1>
-<h3 align="center"> **Data science || ML || Computational Biology/Neuroscience || Data Analytics**</h3>
+<h3 align="center"><b>Data science || ML || Computational Biology/Neuroscience || Data Analytics</b></h3>
 <img align="right" alt="programmer" width="400" src="https://thumbs.gfycat.com/AgonizingEvenHoiho-size_restricted.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apurbaapd&label=Profile%20views&color=0e75b6&style=flat" alt="apurbaapd" /> </p>
@@ -11,7 +11,7 @@
 
 - 🌱 Exploring/learning **AI/ML/DL/NLP**
   
-- 🎯 SKILLS : **Machine Learning**, **DEEP Learning** **Natural Language Processing(NLP)**
+- 🎯 SKILLS : **Machine Learning**, **Deep Learning**, **Natural Language Processing(NLP)**
 
 - 📫 Reach me at **apdnath8596@gmail.com**
 
