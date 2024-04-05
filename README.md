@@ -13,6 +13,8 @@
   
 - 🎯 SKILLS : **Machine Learning**, **Deep Learning**, **Natural Language Processing(NLP)**
 
+- Research Interest : **Computational Biology, Neuroscience**
+
 - 📫 Reach me at **apdnath8596@gmail.com**
 
 - ⚡ Fun fact about me : **Like working on challenging project**
