@@ -20,7 +20,7 @@
 
 - 🎯 Skills: Programming, Mathematics, Machine Learning, Deep Learning, and Neuroscience tools to solve complex problems and unlock new insights.
 
-- 💡 Research Interests: **Computational Neuroscience and Biology**.
+- 💡 Research Interests: **Computational Neuroscience/Biology**.
 
 - 📫 Let’s connect: Reach me at apdnath8596@gmail.com.
 
