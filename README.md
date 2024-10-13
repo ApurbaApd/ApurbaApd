@@ -6,7 +6,7 @@
    and I hold a Bachelor’s degree from the National Institute of Technology (NIT) Durgapur (2020-2024).<br>
    I completed my schooling up to the 12th grade in Tripura, the third smallest state in India, located in the North-East.<br>
   Currently I am working in the field of Computational Neuroscience at the Centre for Integrative Biology and Systems Medicine (IBSE) at the Indian Institute of Technology (IIT) Madras.<br>
-  My main interest is exploring the intricacies of brain dynamics🧠 using computational approaches such as -- mathematics and machine learning.
+  My main interest lies in uncovering the conundrum behind brain dynamics 🧠 by leveraging computational approaches such as mathematics and machine learning..
 </p>
 
 
@@ -14,17 +14,17 @@
 
 <p align="left"> <a href="https://twitter.com/apurbadebnath01" target="blank"><img src="https://img.shields.io/twitter/follow/apurbadebnath01?logo=twitter&style=for-the-badge" alt="apurbadebnath01" /></a> </p>
 
-- 🔭 Currently working on **Some cool project**
+- 🔭 Currently working on exciting projects in the fields of Data Science, Machine Learning, and Deep Learning that drive innovation and discovery.
 
-- 🌱 Exploring/learning **AI/ML/DL/NLP**
-  
-- 🎯 SKILLS: **Machine Learning**, **Deep Learning**, **Natural Language Processing (NLP)**
+- 🌱 Diving deeper into fascinating areas like Brain-Computer Interfaces, Neuroimaging techniques, Neuropathy, Neuronal disorders, and Personalized medicine to push the boundaries of neuroscience.
 
-- Research Interest: **Computational Biology, Neuroscience**
+- 🎯 Skills set: Programming, Mathematics, Machine Learning, Deep Learning, and Neuroscience tools to solve complex problems and unlock new insights.
 
-- 📫 Reach me at **apdnath8596@gmail.com**
+- 💡 Research Interests: Computational Neuroscience and Biology, where I blend cutting-edge tech with life sciences to understand brain dynamics.
 
-- ⚡ Fun fact about me: **I enjoy working on challenging projects**
+- 📫 Let’s connect: Reach me at apdnath8596@gmail.com.
+
+- ⚡ Fun fact: I thrive on tackling challenging projects and love pushing the limits of innovation.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
