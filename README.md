@@ -1,8 +1,8 @@
-<h1 align="center">Hello there, Apurba here👋</h1>
-<h3 align="center"><b>Data Science || ML || Computational Biology/Neuroscience || Data Analytics</b></h3>
+<h1 align="center">Hello there👋</h1>
 <img align="right" alt="programmer" width="400" src="https://thumbs.gfycat.com/AgonizingEvenHoiho-size_restricted.gif">
 
-<p align="left">I completed my schooling up to the 12th grade in Tripura, the third smallest state in India, located in the North-East. I’m Apurba, a graduate of the National Institute of Technology (NIT) Durgapur (2020-2024) with a Bachelor’s degree. I’m currently working in the field of Computational Neuroscience at the Centre for Integrative Biology and Systems Medicine (IBSE) at the Indian Institute of Technology (IIT) Madras. My main interest is exploring the intricacies of brain dynamics using computational approaches such as mathematics and machine learning.</p>
+<p align="left">Hi!
+I’m Apurba, and I hold a Bachelor’s degree from the National Institute of Technology (NIT) Durgapur (2020-2024).I completed my schooling up to the 12th grade in Tripura, the third smallest state in India, located in the North-East.I’m currently working in the field of Computational Neuroscience at the Centre for Integrative Biology and Systems medicinE (IBSE) at the Indian Institute of Technology (IIT) Madras. My main interest is exploring the intricacies of brain dynamics using computational approaches such as mathematics and machine learning.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apurbaapd&label=Profile%20views&color=0e75b6&style=flat" alt="apurbaapd" /> </p>
 
