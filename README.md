@@ -2,7 +2,8 @@
 <img align="right" alt="programmer" width="400" src="https://thumbs.gfycat.com/AgonizingEvenHoiho-size_restricted.gif">
 
 <p align="left">
-   Hi! I’m Apurba, and I hold a Bachelor’s degree from the National Institute of Technology (NIT) Durgapur (2020-2024).<br>
+   Hi! I’m Apurba, </br>
+   and I hold a Bachelor’s degree from the National Institute of Technology (NIT) Durgapur (2020-2024).<br>
    I completed my schooling up to the 12th grade in Tripura, the third smallest state in India, located in the North-East.<br>
   Currently I am working in the field of Computational Neuroscience at the Centre for Integrative Biology and Systems Medicine (IBSE) at the Indian Institute of Technology (IIT) Madras.<br>
   My main interest is exploring the intricacies of brain dynamics🧠 using computational approaches such as -- mathematics and machine learning.
