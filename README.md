@@ -16,11 +16,11 @@
 
 - 🔭 Currently working on exciting projects in the field of Neuroscience that drive innovation and discovery.
 
-- 🌱 Diving deeper into fascinating areas like Brain-Computer Interfaces, Neuroimaging techniques, Neuropathy, Neuronal disorders, and Personalized medicine to push the boundaries of neuroscience.
+- 🌱 Diving deeper into fascinating areas like **Brain-Computer Interfaces**, **Neuroimaging techniques**, **Neuropathy**, **Neuronal disorders**, **Drug Delivery Systems** and **Personalized medicine** to push the boundaries of neuroscience.
 
 - 🎯 Skills: Programming, Mathematics, Machine Learning, Deep Learning, and Neuroscience tools to solve complex problems and unlock new insights.
 
-- 💡 Research Interests: Computational Neuroscience and Biology, where I blend cutting-edge tech with life sciences to understand brain dynamics.
+- 💡 Research Interests: **Computational Neuroscience and Biology**, where I blend cutting-edge tech with life sciences to understand brain dynamics.
 
 - 📫 Let’s connect: Reach me at apdnath8596@gmail.com.
 
