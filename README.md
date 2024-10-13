@@ -14,7 +14,7 @@
 
 <p align="left"> <a href="https://twitter.com/apurbadebnath01" target="blank"><img src="https://img.shields.io/twitter/follow/apurbadebnath01?logo=twitter&style=for-the-badge" alt="apurbadebnath01" /></a> </p>
 
-- 🔭 Currently working on exciting projects in the fields of Data Science, Machine Learning, and Deep Learning that drive innovation and discovery.
+- 🔭 Currently working on exciting projects in the fields Neuroscience that drive innovation and discovery.
 
 - 🌱 Diving deeper into fascinating areas like Brain-Computer Interfaces, Neuroimaging techniques, Neuropathy, Neuronal disorders, and Personalized medicine to push the boundaries of neuroscience.
 
