@@ -14,7 +14,7 @@
 
 <p align="left"> <a href="https://twitter.com/apurbadebnath01" target="blank"><img src="https://img.shields.io/twitter/follow/apurbadebnath01?logo=twitter&style=for-the-badge" alt="apurbadebnath01" /></a> </p>
 
-- 🔭 Currently working on **Some cool projects (DS/ML/DL)**
+- 🔭 Currently working on **Some cool project**
 
 - 🌱 Exploring/learning **AI/ML/DL/NLP**
   
