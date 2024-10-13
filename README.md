@@ -14,11 +14,11 @@
 
 <p align="left"> <a href="https://twitter.com/apurbadebnath01" target="blank"><img src="https://img.shields.io/twitter/follow/apurbadebnath01?logo=twitter&style=for-the-badge" alt="apurbadebnath01" /></a> </p>
 
-- 🔭 Currently working on exciting projects in the fields Neuroscience that drive innovation and discovery.
+- 🔭 Currently working on exciting projects in the field of Neuroscience that drive innovation and discovery.
 
 - 🌱 Diving deeper into fascinating areas like Brain-Computer Interfaces, Neuroimaging techniques, Neuropathy, Neuronal disorders, and Personalized medicine to push the boundaries of neuroscience.
 
-- 🎯 Skills set: Programming, Mathematics, Machine Learning, Deep Learning, and Neuroscience tools to solve complex problems and unlock new insights.
+- 🎯 Skills: Programming, Mathematics, Machine Learning, Deep Learning, and Neuroscience tools to solve complex problems and unlock new insights.
 
 - 💡 Research Interests: Computational Neuroscience and Biology, where I blend cutting-edge tech with life sciences to understand brain dynamics.
 
