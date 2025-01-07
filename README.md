@@ -6,7 +6,7 @@
    and I hold a Bachelor’s degree from the <b>National Institute of Technology (NIT) Durgapur</b> (2020-2024).<br>
    I completed my schooling up to the 12th grade in Tripura, the third smallest state in India, located in the North-East.<br>
   Currently I am working in the field of Computational Neuroscience at the Centre for Integrative Biology and Systems Medicine (IBSE) at the <b>Indian Institute of Technology (IIT) Madras</b>.<br>
-  My main interest lies in uncovering the conundrum behind brain dynamics 🧠 by leveraging computational approaches such as mathematics and machine learning..
+  My main interest lies in uncovering the conundrum behind brain dynamics 🧠 by leveraging computational approaches and various imaging modalities.
 </p>
 
 
@@ -19,8 +19,6 @@
 - 🌱 Diving deeper into fascinating areas like **Brain-Computer Interfaces**, **Neuroimaging techniques**, **Neuropathy**, **Neuronal disorders**, **Drug Delivery Systems** and **Personalized medicine**.
 
 - 🎯 Skills: Programming, Mathematics, Machine Learning, Deep Learning, and Neuroscience tools to solve complex problems and unlock new insights.
-
-- 💡 Research Interests: **Computational Neuroscience/Biology**.
 
 - 📫 Let’s connect: Reach me at apdnath8596@gmail.com.
 
