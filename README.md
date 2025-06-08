@@ -1,9 +1,10 @@
-<h1 align="center">Hello there👋</h1>
+<h1 align="center">Hello there👋, I am Apurba Debnath</h1>
 <img align="right" alt="programmer" width="400" src="https://thumbs.gfycat.com/AgonizingEvenHoiho-size_restricted.gif">
 
 <p align="left">
-   Hi! I’m <b>APURBA</b>, </br>
-   and I hold a Bachelor’s degree from the <b>National Institute of Technology (NIT) Durgapur</b> (2020-2024).<br>
+   Welcome to my page!
+   I am a Masters student at Univeristy of California, San Francisco (UCSF), specializing in Imaging technologies,
+   and I hold a Bachelor’s Degree from <b>National Institute of Technology (NIT) Durgapur</b> (2020-2024).<br>
    I completed my schooling up to the 12th grade in Tripura, the third smallest state in India, located in the North-East.<br>
   Currently I am working in the field of Computational Neuroscience at the Centre for Integrative Biology and Systems Medicine (IBSE) at the <b>Indian Institute of Technology (IIT) Madras</b>.<br>
   My main interest lies in uncovering the conundrum behind brain dynamics 🧠 by leveraging computational approaches and various imaging modalities.
