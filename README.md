@@ -4,7 +4,7 @@
 <p align="left">
   Welcome to my page!</br>I am a Masters student at University of California, San Francisco <b><a href="https://www.ucsf.edu/" target="_blank">(UCSF)</a></b>, specializing in Imaging technologies. I hold a Bachelor's degree from National Institute of Technology (NIT) Durgapur, India.
   I completed my schooling up to the 12th grade in Tripura, the third-smallest state in India, located in the northeastern region.<br>
-  My primary research interest lies in unraveling the complexities of brain dynamics 🧠 through computational approaches and advanced imaging modalities.
+  My primary research interest lies in uncovering the conundrum behind brain dynamics🧠 through computational approaches and advanced imaging modalities.
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apurbaapd&label=Profile%20views&color=0e75b6&style=flat" alt="apurbaapd" /> </p>
