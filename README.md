@@ -7,6 +7,12 @@
   My primary research interest lies in uncovering the conundrum behind brain dynamics🧠 through computational approaches and advanced imaging modalities.
 </p>
 
+<img align="right" alt="programmer" width="400" src="https://thumbs.gfycat.com/AgonizingEvenHoiho-size_restricted.gif">
+<h2 align="center">Current Interest</h2>
+-Computational Neuroscience
+-Brain-Computer Interface, EEG, MEG
+-Drug Delivery Systems, CNS drug delivery
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apurbaapd&label=Profile%20views&color=0e75b6&style=flat" alt="apurbaapd" /> </p>
 
 <p align="left"> <a href="https://twitter.com/apurbadebnath01" target="blank"><img src="https://img.shields.io/twitter/follow/apurbadebnath01?logo=twitter&style=for-the-badge" alt="apurbadebnath01" /></a> </p>
