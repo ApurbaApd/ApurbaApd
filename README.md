@@ -2,7 +2,7 @@
 <img align="right" alt="programmer" width="400" src="https://thumbs.gfycat.com/AgonizingEvenHoiho-size_restricted.gif">
 
 <p align="left">
-  Welcome to my page! I am a Masters student at <b><a href="https://www.ucsf.edu/" target="_blank">University of California, San Francisco (UCSF)</a></b>, specializing in Imaging technologies. I hold a Bachelor's degree from <b>National Institute of Technology (NIT) Durgapur</b> (2020–2024).<br>
+  Welcome to my page! I am a Masters student at University of California, San Francisco <b><a href="https://www.ucsf.edu/" target="_blank">(UCSF)</a></b>, specializing in Imaging technologies. I hold a Bachelor's degree from National Institute of Technology (NIT) Durgapur(2020–2024).
   I completed my schooling up to the 12th grade in Tripura, the third-smallest state in India, located in the northeastern region.<br>
   My primary research interest lies in unraveling the complexities of brain dynamics 🧠 through computational approaches and advanced imaging modalities.
 </p>
