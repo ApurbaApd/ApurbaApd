@@ -24,7 +24,7 @@
 
 - 🎯 Skills: Programming, Mathematics, Machine Learning, Deep Learning, and Neuroscience tools to solve complex problems and unlock new insights.
 
-- 📫 Let’s connect: Reach me at apdnath8596@gmail.com.
+- 📫 Let’s connect: Reach me at apurba.debnath@ucsf.edu
 
 - ⚡ Fun fact: I thrive on tackling challenging projects and love pushing the limits of innovation.
 
