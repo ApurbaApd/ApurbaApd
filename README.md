@@ -1,4 +1,5 @@
-<h3 align="center">Hello there👋, I am Apurba Debnath</h3>
+<h2 align="center">Hi there👋, I am Apurba</h2>
+
 <img align="right" alt="programmer" width="400" src="https://thumbs.gfycat.com/AgonizingEvenHoiho-size_restricted.gif">
 
 <p align="left">
