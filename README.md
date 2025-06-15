@@ -23,11 +23,7 @@
 
 - 🌱 Diving deeper into fascinating areas like **Brain-Computer Interfaces**, **Neuroimaging techniques**, **Neuropathy**, **Neuronal disorders**, **Drug Delivery Systems** and **Personalized medicine**.
 
-- 🎯 Skills: Programming, Mathematics, Machine Learning, Deep Learning, and Neuroscience tools to solve complex problems and unlock new insights.
-
 - 📫 Let’s connect: Reach me at apurba.debnath@ucsf.edu
-
-- ⚡ Fun fact: I thrive on tackling challenging projects and love pushing the limits of innovation.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
