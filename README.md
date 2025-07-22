@@ -1,12 +1,12 @@
-<h2 align="center">Hi there👋, I am Apurba</h2>
+<h1 align="center">Hi there👋, I am Apurba</h1>
 
 <img align="right" alt="programmer" width="400" src="https://thumbs.gfycat.com/AgonizingEvenHoiho-size_restricted.gif">
 
-<p align="left">
+<h2 align="left">
   Welcome to my page!</br>I am a Master's student at <b>University of California San Francisco</b> <b><a href="https://www.ucsf.edu/" target="_blank">(UCSF)</a></b>, specializing in Biomedical Imaging technologies.</br> I graduated with a Bachelor's degree from <b>National Institute of Technology (NIT) Durgapur</b>, India, with a focus on Biotechnology, Mathematics, and Computer Science.
   I completed my schooling up to the 12th grade in Tripura, the third-smallest state in India, located in the northeastern region.<br>
   My primary research interest lies in uncovering the conundrum behind brain dynamics🧠 through computational approaches and advanced imaging modalities.
-</p>
+</h2>
 
 <img align="right" alt="programmer" width="400" src="https://thumbs.gfycat.com/AgonizingEvenHoiho-size_restricted.gif">
 
