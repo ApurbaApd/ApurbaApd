@@ -14,6 +14,7 @@
 <img align="right" alt="programmer" width="400" src="https://thumbs.gfycat.com/AgonizingEvenHoiho-size_restricted.gif">
 
 <h2 align="left">Current Interest</h2>
+-Biomedical Imaging Technologies </br>
 -Computational Neuroscience </br>
 -Brain-Computer Interfaces</br>
 -Drug Delivery Systems, CNS drug delivery </br>
