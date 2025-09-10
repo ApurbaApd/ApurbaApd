@@ -2,10 +2,10 @@
 
 <img align="right" alt="programmer" width="400" src="https://thumbs.gfycat.com/AgonizingEvenHoiho-size_restricted.gif">
 
-<p style="text-align:center; line-height:1.6; font-size:16px;">
+<p style="text-align:center; line-height:1.6; font-size:17px;">
   Welcome to my page!<br><br>
-  I am an MS Graduate student at <b><a href="https://www.ucsf.edu/" target="_blank">University of California, San Francisco (UCSF)</a></b>, specializing in Biomedical Imaging technologies.
-  I graduated with a Bachelor's degree from <b>National Institute of Technology (NIT) Durgapur</b>, India, with a strong focus on Biotechnology, Mathematics, and Computer Science.
+  I am an MS Graduate student at University of California, San Francisco (UCSF), specializing in Biomedical Imaging technologies.
+  I graduated with a Bachelor's degree from National Institute of Technology (NIT) Durgapur, India, with a strong focus on Biotechnology, Mathematics, and Computer Science.
   I completed my schooling up to the 12th grade in Tripura — the third-smallest state in India, located in the northeastern region.<br><br>
   My primary research interest lies in uncovering the conundrum behind brain dynamics🧠 through computational approaches and advanced imaging modalities.
 </p>
