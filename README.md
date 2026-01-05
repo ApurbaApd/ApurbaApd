@@ -23,11 +23,7 @@
 
 <p align="left"> <a href="https://twitter.com/apurbadebnath01" target="blank"><img src="https://img.shields.io/twitter/follow/apurbadebnath01?logo=twitter&style=for-the-badge" alt="apurbadebnath01" /></a> </p>
 
-- 🔭 Currently working on exciting projects in the field of Neuroscience.
-
-- 🌱 Diving deeper into fascinating areas like **Brain-Computer Interfaces**, **Neuroimaging techniques**, **Neuropathy**, **Neuronal disorders**, **Drug Delivery Systems** and **Personalized medicine**.
-
-- 📫 Let’s connect: Reach me at apurba.debnath@ucsf.edu
+Reach me at apurba.debnath@ucsf.edu
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
