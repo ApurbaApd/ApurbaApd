@@ -29,4 +29,5 @@ Reach me at apurba.debnath@ucsf.edu
 <p align="left">
 <a href="https://twitter.com/apurbadebnath01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="apurbadebnath01" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/apurba-debnath-a75a93211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apurba-debnath-a75a93211" height="30" width="40" /></a>
+<a href="https://bsky.app/profile/apurbadebnath.bsky.social" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/bsky-in-alt.svg" alt="apurba-debnath-a75a93211" height="30" width="40" /></a>  
 </p>
