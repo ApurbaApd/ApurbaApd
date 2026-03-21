@@ -1,7 +1,6 @@
 <h2 align="center">Hi there👋, I am Apurba</h2>
 
 <img align="right" alt="programmer" width="400" src="https://thumbs.gfycat.com/AgonizingEvenHoiho-size_restricted.gif">
-
 <p style="text-align:center; line-height:1.6; font-size:17 px;">
   I am an MS Graduate student at University of California San Francisco (UCSF), specializing in Biomedical Imaging technologies.
   I graduated with a Bachelor's degree from National Institute of Technology (NIT) Durgapur, India, with a strong focus on Biotechnology, Mathematics, and Computer Science. Thereafter, I worked as a post-bacc reseacher at IIT Madras, India in collaboration with Paris Brain Institute -- ICM, before joining UCSF.
