@@ -4,7 +4,10 @@
 <p style="text-align:center; line-height:1.6; font-size:17 px;">
 </br>
   I am an MS Graduate student at University of California San Francisco (UCSF), specializing in Biomedical Imaging technologies.
-  I graduated with a Bachelor's degree from National Institute of Technology (NIT) Durgapur, India, with a strong focus on Biotechnology, Mathematics, and Computer Science. Thereafter, I worked as a post-bacc reseacher at IIT Madras, India in collaboration with Paris Brain Institute -- ICM, before joining UCSF.
+ </br> 
+  I graduated with a Bachelor's degree from National Institute of Technology (NIT) Durgapur, India, with a strong focus on Biotechnology, Mathematics, and Computer Science. 
+  </br>
+  Thereafter, I worked as a post-bacc reseacher at IIT Madras, India in collaboration with Paris Brain Institute -- ICM, before joining UCSF. </br>
   I completed my schooling up to the 12th grade in Tripura — the third-smallest state in India, located in the northeastern region.
   My primary research interest lies in uncovering the conundrum behind brain dynamics🧠 through computational approaches and advanced imaging modalities and neurotechnolgies, by infering neuronal population level dynamics as well as structural and functional connectivity of brain.
 </p>
