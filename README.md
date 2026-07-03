@@ -22,7 +22,7 @@
 
 <p align="left"> <a href="https://twitter.com/apurbadebnath01" target="blank"><img src="https://img.shields.io/twitter/follow/apurbadebnath01?logo=twitter&style=for-the-badge" alt="apurbadebnath01" /></a> </p> -->
 
-Reach me at apurba.debnath@ucsf.edu
+Reach me at apurba.debnath@ucsf.edu or https://apurbaapd.github.io
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
