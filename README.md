@@ -6,7 +6,7 @@
   I am a Biomedical Imaging graduate at University of California, San Francisco (UCSF), with focus on neuroimaging technologies, computational neuroscience and neurotechnology and earned my Bachelor's from National Institute of Technology (NIT) Durgapur, India, with a strong focus on Biotechnology, Mathematics, and Computer Science. 
   Thereafter, I worked as a post-bacc reseacher at IIT Madras - India, in collaboration with Paris Brain Institute (ICM), before joining UCSF. 
    </br></br>
-  My primary research interest lies in uncovering the conundrum behind brain dynamics🧠 through computational approaches, advanced neuroimaging modalities and neurotechnolgies, by infering neuronal population level dynamics as well as structural and functional connectivity of brain.
+  My primary research interest lies in uncovering the conundrum behind brain dynamics🧠 through computational approaches, advanced neuroimaging modalities and neurotechnologies, by infering neuronal population level dynamics as well as structural and functional connectivity of brain.
 </p>
 
 
