@@ -3,7 +3,8 @@
 <img align="right" alt="programmer" width="400" src="https://thumbs.gfycat.com/AgonizingEvenHoiho-size_restricted.gif">
 <p style="text-align:center; line-height:1.6; font-size:17 px;">
 </br>
-  I am a Biomedical Imaging graduate at University of California, San Francisco (UCSF), with focus on neuroimaging technologies, computational neuroscience and neurotechnology and earned my Bachelor's from National Institute of Technology (NIT) Durgapur, India, with a strong focus on Biotechnology, Mathematics, and Computer Science. 
+  I am a Biomedical Imaging grad at University of California, San Francisco (UCSF). I am super curious about combining advanced neuroimaging technologies, computational neuroscience and neurotechnology. </br></br>
+  I earned my Bachelor's from National Institute of Technology (NIT) Durgapur, India, with a strong focus on Biotechnology, Mathematics, and Computer Science. 
   Thereafter, I worked as a post-bacc reseacher at IIT Madras - India, in collaboration with Paris Brain Institute (ICM), before joining UCSF. 
    </br></br>
   My primary research interest lies in uncovering the conundrum behind brain dynamics🧠 through computational approaches, advanced neuroimaging modalities and neurotechnologies, by infering neuronal population level dynamics as well as structural and functional connectivity of brain.
