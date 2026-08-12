@@ -3,7 +3,7 @@
 <img align="right" alt="programmer" width="400" src="https://thumbs.gfycat.com/AgonizingEvenHoiho-size_restricted.gif">
 <p style="text-align:center; line-height:1.6; font-size:17 px;">
 </br>
-  I am a Biomedical Imaging grad at University of California, San Francisco (UCSF). I am super curious about combining advanced neuroimaging technologies, computational neuroscience and neurotechnologies. </br></br>
+  I am a Biomedical Imaging grad at University of California, San Francisco (UCSF). I am super curious about combining advanced neuroimaging technologies, computational neuroscience and neurotechnologies and currently writing my thesis on decovolution of scale-free brain signals from Alzheimer's brain signals. </br></br>
   I earned my Bachelor's degree from National Institute of Technology (NIT) Durgapur, India, with a strong focus on Biotechnology, Mathematics, and Computer Science. 
   Thereafter, I worked as a post-bacc reseacher at IIT Madras - India, in collaboration with Paris Brain Institute (ICM), before joining UCSF. 
    </br></br>
