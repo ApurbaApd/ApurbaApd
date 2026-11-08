@@ -3,7 +3,7 @@
 <img align="right" alt="programmer" width="400" src="https://thumbs.gfycat.com/AgonizingEvenHoiho-size_restricted.gif">
 <p style="text-align:center; line-height:1.6; font-size:17 px;">
 </br>
-  I am a Biomedical Imaging grad at UCSF. Prior to that, I worked as a post-baccalaureate researcher at IIT Madras, India, in collaboration with Paris Brain Institute(ICM). Earlier, I earned my Bachelor's degree from NIT Durgapur, India, with a strong focus on Biotechnology, Mathematics, and Computer Science. 
+  I am a Biomedical Imaging grad from UCSF, with special focus on neuroimaing to understand brain dynamics. Prior to that, I worked as a post-baccalaureate researcher at IIT Madras, India, in collaboration with Paris Brain Institute(ICM). Earlier, I earned my Bachelor's degree from NIT Durgapur, India, with a strong focus on Biotechnology, Mathematics, and Computer Science. 
   
    <!-- </br></br>
   My primary research interest lies in uncovering the conundrum behind brain dynamics🧠 through computational approaches, advanced neuroimaging modalities and neurotechnologies, by infering neuronal population level dynamics as well as structural and functional connectivity of brain. -->
